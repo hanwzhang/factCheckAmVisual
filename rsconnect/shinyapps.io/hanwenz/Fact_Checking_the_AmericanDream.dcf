@@ -1,0 +1,13 @@
+name: Fact_Checking_the_AmericanDream
+title: Fact_Checking_the_AmericanDream
+username: hanwenz
+account: hanwenz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10635235
+bundleId: 7973067
+url: https://hanwenz.shinyapps.io/Fact_Checking_the_AmericanDream/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: gss7222_r1.dta|gssEthnic.csv|migrationfinal.Rmd
